@@ -12,3 +12,9 @@ The repository can be added as a sub-module or sub-tree to improve Unity Project
 |      Dependency     | Description                      | Link                                                                                  |
 |:-------------------:|----------------------------------|---------------------------------------------------------------------------------------|
 | JSON .NET For Unity | Json .net serialization in Unity | https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347 |
+
+___
+# More Tools
+### Wwise Unity Cloud Build Fixer
+##### Tool to get Wwise working with Unity Cloud Build:
+https://github.com/BlackBoxSimulations/wwise-unity-cloud-build-fixer
