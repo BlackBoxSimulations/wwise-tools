@@ -36,7 +36,7 @@ using UnityEngine;
 [UnityEditor.InitializeOnLoad]
 public static class WwiseDefineSymbol
 {
-    static PhotonDefineSymbol()
+    static WwiseDefineSymbol()
     {
            if (AssetDatabaseUtility.HasAsset("AkSoundEngine"))
         {
